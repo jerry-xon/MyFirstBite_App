@@ -1,0 +1,28 @@
+{
+  "cli": {
+    "version": ">= 10.0.3"
+  },
+  "build": {
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal",
+      "channel": "development"
+    },
+    "preview": {
+      "distribution": "internal",
+      "channel": "preview"
+    },
+    "production": {
+      "channel": "production"
+    }
+  },
+  "submit": {
+    "production": {
+      "ios": {
+        "appleId": "myfirstbite.028@gmail.com",
+        "ascAppId": "6737496350",
+        "appleTeamId": "59J86WW7CZ"
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+export const ROUTES = {
+  LOGIN: "Login",
+  HOME: "Home",
+  CART: "Cart",
+  PROFILE: "Profile",
+  MY_ORDERS: "MyOrders",
+  RESTRO_MENU: "RestroMenu",
+  MY_PROFILE: "MyProfile",
+  ADD_ADDRESS: "AddAddress",
+  SELECT_ADDRESS: "SelectAddress",
+  // REVIEW: "Review",
+  CHOOSE_CITY: "ChooseCity",
+  OTP: "OTP",
+  SUCCESS: "SUCCESS",
+  TNC: "TNC",
+};

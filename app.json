@@ -1,0 +1,54 @@
+{
+  "expo": {
+    "name": "MyFirstBite",
+    "slug": "my-first-bite",
+    "version": "1.0.6",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.myfirstbite"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.myfirstbite",
+      "versionCode": 26
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "699af3a1-147a-4e3e-be4d-c7a7a9c12ed0"
+      }
+    },
+    "owner": "jitesh0206",
+    "plugins": [
+      "expo-font",
+      [
+        "expo-updates",
+        {
+          "username": "jitesh0206"
+        }
+      ]
+    ],
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/699af3a1-147a-4e3e-be4d-c7a7a9c12ed0"
+    }
+  }
+}
