@@ -12,8 +12,10 @@ MyFirstBite food delivery mobile application built using **React Native** and **
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/food-delivery-app.git
-cd food-delivery-app](https://github.com/jerry-xon/MyFirstBite_App.git
+git clone https://github.com/jerry-xon/MyFirstBite_App.git
+
+cd MyFirstBite_App
+
 ```
 
 ### 2. Install Dependencies
